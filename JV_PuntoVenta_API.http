@@ -1,0 +1,6 @@
+@JV_PuntoVenta_API_HostAddress = http://localhost:5129
+
+GET {{JV_PuntoVenta_API_HostAddress}}/productos/
+Accept: application/json
+
+###
